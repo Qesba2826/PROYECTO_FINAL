@@ -1,0 +1,6 @@
+C:\Users\Windows 11\Documents\PSoC Creator\PROYECTO_FINAL_V0\Design01.cydsn\Design01.cyprj|a85623c2-7bd4-4b89-909e-226dd0ac7144
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|05a62da3-99ad-4fc3-9b36-05b7906bea77
+C:\Users\Windows 11\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|0e6dc88f-f956-4347-b3cf-663e394d3843
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|fb62b90c-bc47-47dc-9af9-fb8ae32f4dfd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|70fe9c47-726c-4908-931b-6ea1dc3bebc9
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|8b962cd6-e809-4338-bd3a-372a62bde410
